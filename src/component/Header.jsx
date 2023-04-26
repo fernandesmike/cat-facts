@@ -1,12 +1,13 @@
 import React from "react";
 import "../stylesheets/base-reset.css";
 
-const Fact = ({ catFact }) => {
+const Header = () => {
   return (
     <section>
-      <p>{catFact}</p>
+      <h1>Random cat facts</h1>
+      <p>Said by an actual cat!</p>
     </section>
   );
 };
 
-export default Fact;
+export default Header;
