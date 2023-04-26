@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import Axios from "axios";
-import Fact from "./component/Fact";
-import Footer from "./component/Footer";
-import Cat from "./component/Cat";
+import Fact from "./component/fact";
+import Footer from "./component/footer";
+import Cat from "./component/cat";
 
 const App = () => {
   const CAT_API = "https://catfact.ninja/fact";
