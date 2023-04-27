@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: auto;
+}
+
+.p {
+  font-size: 0.9em;
+  color: var(--prm-color);
+}
+
+.a {
+  color: var(--prm-color);
+  font-weight: 700;
+}

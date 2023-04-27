@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&display=swap");
 
 :root {
-  --prm-color: hsl(212, 60%, 90%);
+  --prm-color: hsl(212, 60%, 92%);
   --sec-color: hsla(213, 61%, 90%, 0.7);
   --bg-color: hsl(212, 75%, 16%);
   --btn-color: hsl(254, 65%, 45%);
@@ -16,8 +16,12 @@ html {
 }
 
 main {
+  padding: 0;
   width: 90%;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .btn {
@@ -35,6 +39,13 @@ main {
   cursor: pointer;
 }
 
-@media screen {
-  
+@media only screen and (min-width: 1024px) {
+  .btn {
+    width: 400px;
+    margin: 50px 0;
+  }
+
+  main {
+    width: 70%;
+  }
 }

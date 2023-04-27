@@ -9,4 +9,5 @@
 .p {
   font-size: 2em;
   line-height: 150%;
+  color: var(--prm-color);
 }

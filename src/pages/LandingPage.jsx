@@ -24,6 +24,7 @@ const LandingPage = () => {
       const response = await axios.get(CAT_API);
       const data = await response.data;
       setFact(data.fact);
+      console.log(data);
     } catch (error) {
       console.log(error);
     }
