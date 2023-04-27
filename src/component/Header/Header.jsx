@@ -1,5 +1,5 @@
 import React from "react";
-import "../stylesheets/base-reset.css";
+import "../../stylesheets/base-reset.css";
 
 const Header = () => {
   return (
