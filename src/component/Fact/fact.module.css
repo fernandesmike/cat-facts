@@ -1,0 +1,12 @@
+.section {
+  width: 100%;
+  padding: 30px 5px;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.p {
+  font-size: 2em;
+  line-height: 150%;
+}

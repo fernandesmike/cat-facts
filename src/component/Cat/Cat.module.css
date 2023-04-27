@@ -1,0 +1,23 @@
+.section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.cat-name {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.secondary {
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--sec-color);
+}
