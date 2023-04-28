@@ -13,7 +13,11 @@ import CatLogo from "../../assets/cat-gif.gif";
 const Header = () => {
   return (
     <section className={style.section}>
-      <img src={CatLogo} alt="A cat logo" className={style["cat-logo"]} />
+      <img
+        src={CatLogo}
+        alt="A sweet and cute cat logo"
+        className={style["cat-logo"]}
+      />
       <div className="content">
         <h1 className={style.h1}>Random cat facts</h1>
         <p className={style.p}>said by an actual cat</p>

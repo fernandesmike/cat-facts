@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 // Components & Pages
 import LandingPage from "./pages/LandingPage";
@@ -6,7 +6,7 @@ import NotFound from "./pages/NotFound";
 
 // CSS
 import "./stylesheets/base-reset.css";
-import { Link, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 const App = () => {
   return (

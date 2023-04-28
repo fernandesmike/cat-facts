@@ -1,7 +1,5 @@
 # Cat fact generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Learning
 
 1. Axios API
@@ -13,4 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 7. Components & Pages
 8. States (Destructuring)
 9. Nested Routes
-10. 
+
+## Video resources
+
+1. React JS Full Course by Dave Gray
+2. React Course by PedroTech
