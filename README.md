@@ -1,7 +1,4 @@
-<p align="cener">
-<img alt="Desktop version" height="350px" src="https://user-images.githubusercontent.com/56340295/235044181-f8e2ff03-9468-4f13-a263-f62f29115517.png">
-<img alt="Mobile version" height="350px" src="https://user-images.githubusercontent.com/56340295/235044186-91d4be96-0529-467b-88ae-f6ab2c4441e5.png">
-</p>
+<img align="center" alt="Desktop version" src="https://user-images.githubusercontent.com/56340295/235044181-f8e2ff03-9468-4f13-a263-f62f29115517.png">
 
 ## Random cat fact generator
 
