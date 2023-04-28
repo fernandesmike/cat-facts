@@ -1,6 +1,5 @@
-# Cat fact generator
+![Main screen](https://user-images.githubusercontent.com/56340295/235043438-3209fa6d-af7f-4eb6-9a92-74a050214164.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Learning
 
