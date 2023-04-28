@@ -1,8 +1,13 @@
-<img align="center" alt="Desktop version" src="https://user-images.githubusercontent.com/56340295/235044181-f8e2ff03-9468-4f13-a263-f62f29115517.png">
+<img align="center" alt="Desktop version" src="https://user-images.githubusercontent.com/56340295/235044181-f8e2ff03-9468-4f13-a263-f62f29115517.png"/>
 
-## Random cat fact generator
+##  Random cat fact generator
 
 A small web application that displays cat facts said by REAL CATS!. Using Axios API to handle data requests.
+
+<p>
+<img alt="Sleeep" height="150px" width="150px" src="https://user-images.githubusercontent.com/56340295/235046791-7ebece37-c60f-4834-aa34-54edbd90d8a3.jpg"/>
+<img alt="What? Cat" height="150px" width="150px" src="https://user-images.githubusercontent.com/56340295/235046440-0e2664ab-024e-4d1c-bcb4-bdb954e76785.gif"/>
+</p>
 
 ##
 
