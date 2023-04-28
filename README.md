@@ -1,4 +1,6 @@
-![Main screen](https://user-images.githubusercontent.com/56340295/235043438-3209fa6d-af7f-4eb6-9a92-74a050214164.png)
+![header](https://user-images.githubusercontent.com/56340295/235044181-f8e2ff03-9468-4f13-a263-f62f29115517.png)
+![header-mobile](https://user-images.githubusercontent.com/56340295/235044186-91d4be96-0529-467b-88ae-f6ab2c4441e5.png)
+
 
 
 ## Learning
