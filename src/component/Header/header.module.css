@@ -29,5 +29,6 @@
   .section {
     flex-direction: row;
     justify-content: flex-start;
+    text-align: left;
   }
 }
